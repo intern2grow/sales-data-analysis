@@ -95,7 +95,7 @@ date,product,category,price,quantity,revenue
 2022-04-02,Smartphone,Electronics,600,10,6000
 2022-04-03,Speaker,Electronics,80,25,2000
 2022-04-04,Coat,Clothing,100,15,1500
-2022-04-05,Smartwatch,Accessories,200,10,2000
+2022-04-05,Smartwatch,Accessories,200,10,
 2022-04-06,Smartphone,Electronics,600,7,4200
 2022-04-07,Backpack,Bags,50,18,900
 2022-04-08,T-Shirt,Clothing,20,35,700
@@ -121,7 +121,7 @@ date,product,category,price,quantity,revenue
 2022-04-28,Watch,Accessories,150,10,1500
 2022-04-29,Coat,Clothing,100,5,500
 2022-04-30,Headphones,Electronics,100,15,1500
-2022-05-01,Smartphone,Electronics,600,11,6600
+2022-05-01,Smartphone,Electronics,600,,6600
 2022-05-02,Hoodie,Clothing,40,20,800
 2022-05-03,Smartphone,Electronics,600,10,6000
 2022-05-04,Speaker,Electronics,80,22,1760
@@ -192,7 +192,7 @@ date,product,category,price,quantity,revenue
 2022-07-08,Backpack,Bags,50,20,1000
 2022-07-09,T-Shirt,Clothing,20,30,600
 2022-07-10,Jeans,Clothing,50,25,1250
-2022-07-11,Watch,Accessories,150,15,2250
+2022-07-11,Watch,Accessories,,15,2250
 2022-07-12,Hoodie,Clothing,40,15,600
 2022-07-13,Smartphone,Electronics,600,12,7200
 2022-07-14,Sneakers,Shoes,80,8,640
@@ -213,7 +213,7 @@ date,product,category,price,quantity,revenue
 2022-07-29,Coat,Clothing,100,5,500
 2022-07-30,Headphones,Electronics,100,10,1000
 2022-07-31,Smartphone,Electronics,600,11,6600
-2022-08-01,Hoodie,Clothing,40,30,1200
+2022-08-01,Hoodie,Clohting,40,30,1200
 2022-08-02,Smartphone,Electronics,600,10,6000
 2022-08-03,Speaker,Electronics,80,25,2000
 2022-08-04,Coat,Clothing,100,15,1500
@@ -318,7 +318,7 @@ date,product,category,price,quantity,revenue
 2022-11-10,Hoodie,Clothing,40,15,600
 2022-11-11,Smartphone,Electronics,600,12,7200
 2022-11-12,Sneakers,Shoes,80,8,640
-2022-11-13,Wallet,Accessories,30,35,1050
+2022-11-13,Wallet,Accessories,,35,1050
 2022-11-14,Smartwatch,Accessories,200,9,1800
 2022-11-15,Smartphone,Electronics,600,6,3600
 2022-11-16,Coat,Clothing,100,8,800
@@ -341,7 +341,7 @@ date,product,category,price,quantity,revenue
 2022-12-03,Coat,Clothing,100,15,1500
 2022-12-04,Smartwatch,Accessories,200,10,2000
 2022-12-05,Smartphone,Electronics,600,7,4200
-2022-12-06,Backpack,Bags,50,18,900
+2022-12-06,Backpack,Bgas,50,18,900
 2022-12-07,T-Shirt,Clothing,20,35,700
 2022-12-08,Jeans,Clothing,50,10,500
 2022-12-09,Watch,Accessories,150,12,1800
@@ -357,7 +357,7 @@ date,product,category,price,quantity,revenue
 2022-12-19,T-Shirt,Clothing,20,20,400
 2022-12-20,Tablet,Electronics,400,6,2400
 2022-12-21,Smartphone,Electronics,600,7,4200
-2022-12-22,Sneakers,Shoes,80,12,960
+2022-12-22,Sneakers,Shoeses,80,12,960
 2022-12-23,T-Shirt,Clothing,20,25,500
 2022-12-24,Smartwatch,Accessories,200,8,1600
 2022-12-25,Jeans,Clothing,50,15,750
